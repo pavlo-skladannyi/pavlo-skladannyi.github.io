@@ -1,0 +1,17 @@
+title: Pavlo Skladannyi, Ph.D.
+description: CV and Publication List
+logo: /images/skladannyi.png
+social:
+  name: Research Accounts
+  links:
+    - https://orcid.org/0000-0002-7775-6039
+    - https://www.scopus.com/authid/detail.uri?authorId=57204922790
+    - https://www.webofscience.com/wos/author/record/566087
+
+theme: jekyll-theme-minimal
+
+show_downloads: false
+google_analytics:
+lang: en
+timezone: Europe/Kyiv
+tagline: CV
