@@ -58,6 +58,8 @@
 
 ## Workshop Papers (CEUR-WS)
 
+2025 [Variational Autoencoders for Detecting Anomalous and Fraudulent Transactions in Financial Systems](Variational-Autoencoders-for-Detecting-Anomalous-and-Fraudulent-Transactions-in-Financial-Systems.md)
+
 2025 [Adaptive Methods for Embedding Digital Watermarks to Protect Audio and Video Images in Information and Communication Systems](Adaptive-Methods-for-Embedding-Digital-Watermarks-to-Protect-Audio-and-Video-Images.md)
 
 2025 [Cyber Evidence Software as the Digital Forensics Tools in the Investigation of Cybercrime](Cyber-Evidence-Software-as-the-Digital-Forensics-Tools-in-the-Investigation-of-Cybercrime.md)
