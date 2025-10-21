@@ -58,6 +58,10 @@
 
 ## Workshop Papers (CEUR-WS)
 
+2025 [Adaptation of Network Traffic Routing Policy to Information Security and Network Protection Requirements](Adaptation-of-Network-Traffic-Routing-Policy-to-Information-Security-and-Network-Protection-Requirements.md)
+
+2025 [Model and Methodology for the Formation of Adaptive Security Profiles for the Protection of Wireless Networks in the Face of Dynamic Cyber Threats](Model-and-Methodology-for-the-Formation-of-Adaptive-Security-Profiles-for-the-Protection-of-Wireless-Networks.md)
+
 2025 [Variational Autoencoders for Detecting Anomalous and Fraudulent Transactions in Financial Systems](Variational-Autoencoders-for-Detecting-Anomalous-and-Fraudulent-Transactions-in-Financial-Systems.md)
 
 2025 [Adaptive Methods for Embedding Digital Watermarks to Protect Audio and Video Images in Information and Communication Systems](Adaptive-Methods-for-Embedding-Digital-Watermarks-to-Protect-Audio-and-Video-Images.md)

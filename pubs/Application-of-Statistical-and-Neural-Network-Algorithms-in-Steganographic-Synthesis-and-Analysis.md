@@ -25,7 +25,7 @@ steganography, steganalysis, hidden information, audio container, graphic contai
 <table>
 <tr>
 <td>
-<a href="https://www.scimagojr.com/journalsearch.php?q=21100218356&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://www.scimagojr.com/journal_img.php?id=21100218356" alt="SCImago Journal &amp; Country Rank"  /></a>
+<a href="https://www.scimagojr.com/journalsearch.php?q=21100218356&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank"><img border="0" src="https://corsproxy.io/?https://www.scimagojr.com/journal_img.php?id=21100218356" alt="SCImago Journal &amp; Country Rank"  /></a>
 </td>
 <td style="text-align: left;">
 <a href="https://cqpc.kubg.edu.ua/"><img src="/icons/cqpc.svg" width="200"></a>
@@ -45,7 +45,7 @@ First Online: 26 August 2025
 * EID: [2-s2.0-105015144720](http://www.scopus.com/record/display.url?origin=inward&eid=2-s2.0-105015144720)
 * URN: [urn:nbn:de:0074-4016-X](https://nbn-resolving.org/xml/urn:nbn:de:0074-4016-X)
 * DBLP: [conf/cqpc/KostiukSKSH25](https://dblp.org/rec/conf/cqpc/KostiukSKSH25)
-* KUBG: [50189](http://elibrary.kubg.edu.ua/id/eprint/50189/)
+* KUBG: [52994](http://elibrary.kubg.edu.ua/id/eprint/52994/)
 
 ## Cite
 
